@@ -1,0 +1,196 @@
+body
+{
+    background-image: url(penguinos.jpg);
+     font-family: "Crete Round", serif;
+}
+
+#container
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    text-align: center;
+}
+
+.container
+{
+
+
+    width: 1000px; 
+    height: 200px;
+
+}
+
+.container img
+{
+    
+    width: 1000px;
+    height: 200px;
+    
+}
+
+.text
+{
+    font-family: "Madimi One", sans-serif;
+    color: #ff0084;
+    font-size: 60px;
+    position: absolute;
+    top: 2%;
+    left: 33%;
+    
+}
+
+#menu
+{
+
+ background-color: skyblue;
+ margin-top: 0px;
+ color:black;
+ padding: 10px; 
+ margin-bottom: 5px;
+ text-align:justify;
+
+}
+
+#menu img
+{
+    width: 140px;
+    height: 80px;
+    position:absolute;
+    top: 225px;
+    left: 1253px;
+}
+
+a
+{
+    color: black;
+    text-decoration: none;
+   
+}
+
+a:hover 
+{
+    color: white
+}
+
+#sidebar
+{
+    float: left;
+    width: 148px;
+    min-height: 620px;
+    padding: 20px;
+    background-color: lightgray;
+    text-align: center;
+    font-size: 18px;
+    border-right: 2px solid darkorange;
+    color:black;
+
+
+}
+
+#content
+{
+
+float:left;
+padding: 40px;
+width: 730px;
+background-color: whitesmoke;
+min-height: 580px;
+text-align: left;
+color: black;
+}
+
+
+#content img
+{
+    width: 500px ;
+    height: 350px ;
+    margin-top: 10px;
+}
+#footer2
+{
+    clear:both;
+    color: red;
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+}
+
+
+.footer img
+{
+    margin-top: 5px;
+    width: 1000px; 
+    height: 350px;
+    
+}
+
+.option
+{
+    float: left;
+    min-width: 50px;
+    height: 25px;
+    font-size: 18px;
+    padding: 10px;
+    border-right: 5px solid #0000;
+    border-right: 2px solid darkorange;
+    
+}
+
+.option:hover
+{
+    background-color: lightslategrey;
+    cursor:pointer;
+    color: white;
+}
+
+.optionX
+{
+font-size:16px;
+height: 30px;
+border-bottom: 2px solid darkorange;
+text-align:center;
+padding-bottom: 8px;
+padding-top: 16px;
+}
+
+.optionX:hover
+{
+background-color: lightslategrey;
+color: white;
+cursor: pointer;
+}
+
+.bigtitle
+{
+   font-size: 32px;
+   font-weight: 900;
+   letter-spacing: 1px; 
+}
+
+.bigtitleX
+{
+   font-size: 32px;
+   font-weight: 900;
+   letter-spacing: 2px; 
+}
+
+.dottedline
+{
+    height: 5px;
+    margin-top: 10px;
+    border-bottom: 2px solid darkorange;
+}
+
+.optionD
+{
+    font-size: 30px;
+    margin-left: 9px;
+}
+
+.optionF
+{
+    font-size: 30px;
+}
+
